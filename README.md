@@ -3,11 +3,13 @@ Entrega 3 da Sprint do Passa a Bola.
 
 # Integrantes
 
-Nicolas Tetsuo Kimura - RM 565377
-Thomaz Vasconcelos Mendes - RM 564805
-Breno Henrique Bortoloti Santos - RM 564188
-Pedro Cunha Coutinho - RM 564188
-Pedro Henrique dos Santos - RM 564188
+<ul>
+    <li>Nicolas Tetsuo Kimura - RM 565377</li>
+    <li>Thomaz Vasconcelos Mendes - RM 564805</li>
+    <li>Breno Henrique Bortoloti Santos - RM 564188</li>
+    <li>Pedro Cunha Coutinho - RM 564188</li>
+    <li>Pedro Henrique dos Santos - RM 564188</li>
+</ul>
 
 # Descrição do Projeto
 
